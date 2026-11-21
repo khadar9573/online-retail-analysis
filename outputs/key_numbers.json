@@ -1,0 +1,110 @@
+{
+  "raw_rows": 541909,
+  "duplicates_removed": 5268,
+  "cancel_rows_moved": 9251,
+  "nonproduct_removed": 2406,
+  "bad_qty_price_removed": 2480,
+  "huge_orders_removed": 2,
+  "clean_rows": 522502,
+  "pct_rows_kept": 96.41877141734129,
+  "total_revenue": 10001167.67,
+  "invoices": 19771,
+  "avg_order_value": 505.8503702392394,
+  "products": 3899,
+  "countries": 38,
+  "known_customers": 4333,
+  "missing_cust_rows_pct": 25.1394253036352,
+  "missing_cust_revenue_pct": 15.094169799075072,
+  "uk_share_pct": 84.77402139184413,
+  "best_month": "2011-11",
+  "best_month_revenue": 1452112.69,
+  "worst_month": "2011-02",
+  "worst_month_revenue": 507783.42,
+  "sep_nov_share_pct": 37.50582235779617,
+  "sep_nov_revenue": 3583737.4499999997,
+  "dec_days": 8,
+  "nov_days": 26,
+  "dec_rev_per_day": 55752.25375,
+  "nov_rev_per_day": 55850.48807692307,
+  "top_product": "REGENCY CAKESTAND 3 TIER",
+  "top_product_revenue": 174156.54,
+  "top10_products_share_pct": 8.196414629252986,
+  "top_nonuk_country": "Netherlands",
+  "top_nonuk_revenue": 283889.34,
+  "top20_customer_share_pct": 73.89383940912609,
+  "cust_for_80_pct": 26.84052619432264,
+  "one_order_customers_pct": 34.733441033925686,
+  "repeat_customers_pct": 65.26655896607431,
+  "champions_customers_pct": 23.6095084237249,
+  "champions_revenue_pct": 66.76405029548326,
+  "champions_customers": 1023,
+  "atrisk_customers": 384,
+  "atrisk_revenue_pct": 7.51374511886161,
+  "lost_customers": 1340,
+  "lost_revenue_pct": 7.075933023322823,
+  "return_value": 230247.96,
+  "return_pct_of_sales": 2.302210777754114,
+  "return_invoices": 3420,
+  "return_invoices_pct": 14.747100168168686,
+  "busiest_hour": 12,
+  "top_hours": [
+    12,
+    13,
+    14
+  ],
+  "busiest_weekday": "Thursday",
+  "weekdays_present": [
+    "Friday",
+    "Monday",
+    "Sunday",
+    "Thursday",
+    "Tuesday",
+    "Wednesday"
+  ],
+  "rho_price_units": -0.32866144934668184,
+  "rho_freq_monetary": 0.8080046644941472,
+  "segments": [
+    {
+      "Segment": "Champions",
+      "customers": 1023,
+      "revenue": 5669319.03,
+      "pct_of_customers": 23.61,
+      "pct_of_revenue": 66.76
+    },
+    {
+      "Segment": "Loyal Customers",
+      "customers": 591,
+      "revenue": 1082376.87,
+      "pct_of_customers": 13.64,
+      "pct_of_revenue": 12.75
+    },
+    {
+      "Segment": "At Risk",
+      "customers": 384,
+      "revenue": 638035.26,
+      "pct_of_customers": 8.86,
+      "pct_of_revenue": 7.51
+    },
+    {
+      "Segment": "Lost",
+      "customers": 1340,
+      "revenue": 600858.12,
+      "pct_of_customers": 30.93,
+      "pct_of_revenue": 7.08
+    },
+    {
+      "Segment": "New / Recent Customers",
+      "customers": 517,
+      "revenue": 252168.14,
+      "pct_of_customers": 11.93,
+      "pct_of_revenue": 2.97
+    },
+    {
+      "Segment": "Need Attention",
+      "customers": 478,
+      "revenue": 248817.02,
+      "pct_of_customers": 11.03,
+      "pct_of_revenue": 2.93
+    }
+  ]
+}

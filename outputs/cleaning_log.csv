@@ -1,0 +1,6 @@
+step,rows_before,rows_after,rows_removed
+Remove exact duplicate rows,541909,536641,5268
+Move cancellations (invoice starts with C) to the returns table,536641,527390,9251
+"Remove non-product codes (postage, fees, vouchers, adjustments)",527390,524984,2406
+Remove rows with zero or negative quantity or price,524984,522504,2480
+Remove 2 huge orders that were cancelled within minutes,522504,522502,2
